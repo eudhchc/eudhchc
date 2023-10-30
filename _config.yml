@@ -1,5 +1,5 @@
 # Fuse Core Theme for Jekyll - Settings
-# https://github.com/tsjensen/fuse-core
+# https://github.com/eudhchc/fuse-core
 
 markdown: kramdown
 permalink: pretty
@@ -52,7 +52,7 @@ ga:
 # Leave empty (just "plausible:" with subitems commented out) to disable.
 #plausible:
 plausible:
-    domain: 'tsjensen.github.io'
+    domain: 'eudhchc.github.io'
 
 
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
